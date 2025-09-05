@@ -77,9 +77,9 @@ nav a{
 }
 
 nav a:hover{
-  color:white;
-  background:var(--flotando);  
-  transition:all ease .75s;
+  color:white
+  background:var(--flotando)
+  transition:all ease .75s
 }
 
 nav a.active{
